@@ -40,3 +40,5 @@ https://github.com/user-attachments/assets/49999358-5626-4e2a-8f2f-510ef58223d5
 
 - **IndexedDB**: 이 프로젝트에서 IndexedDB는 클라이언트 측에서 ToDo 항목들을 저장하고 관리하는 데 사용됩니다.<br>사용자가 생성한 ToDo 항목들은 브라우저가 종료되어도 유지되며, 이를 통해 오프라인 상태에서도 데이터 접근성과 지속성을 보장합니다.
 
+### 5. 참고 링크
+https://velog.io/@gunwng123/Flutter-Web-%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%802-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80-%ED%86%B5%EC%8B%A0%ED%95%98%EA%B8%B0
